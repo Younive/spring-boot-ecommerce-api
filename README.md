@@ -1,4 +1,4 @@
-# Store API
+# Spring Boot Ecommerce Api
 
 REST API for an e-commerce store. Built with Spring Boot 4, Java 23, MySQL, and Stripe.
 
